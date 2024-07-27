@@ -7,13 +7,6 @@ using namespace std;
 
 Data Structure(s) Used : stack<int> and unordered_map<int,char>
 
-Time and Space Complexities
-
-Get : O(c) and O(c)
-Put : O(c) and O(c)
-
-c is the capacity of the cache
-
 Verdict : 18/22 test cases passed on LC [TLE]
 
 */

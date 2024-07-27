@@ -6,11 +6,6 @@ using namespace std;
 
 Data Structure(s) Used : vector<pair<pair<int,char>,int>>
 
-Time and Space Complexities:
-
-Get : O(c) and O(1)
-Put : O(c) and O(1)
-
 Verdict : 20/22 test cases passed on LC [TLE]
 
 */
